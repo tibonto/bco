@@ -13,4 +13,4 @@ keywords: Industry4.0, Manifacturing, Interoperability, Semantic Model, Ontology
 license: MIT
 version: 1.0
 repositoryURL: https://www.github.com/tibonto/bco
-releaseURL: https://github.com/tibonto/bco/tree/v0.1
+releaseURL: https://github.com/tibonto/bco/tree/v1.0
