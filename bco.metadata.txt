@@ -1,0 +1,16 @@
+# Ontology metadata attributes required for registration in the TIB ontolgoy hub.
+# This file should be maintaind under the source control and must be released anongside the ontology, under the same versioning scheme.
+# The file name is <ontologyID>.metadata.txt.
+
+shortName: BCO
+title: BOOST4.0 Core Ontology
+description: A network of core vocabularies for manufacturing and Industry 4.0
+autorFullName: Sebastian Bader, Mohamad Yaser Jaradeh
+authorEmail: Sebastian.bader@iais.fraunhofer.de, yaser.jaradeh@tib.eu
+maintainerFullname: Mohamad Yaser Jaradeh
+maintainerEmail: yaser.jaradeh@tib.eu
+keywords: Industry4.0, Manifacturing, Interoperability, Semantic Model, Ontology, Sensor, Device, Process
+license: MIT
+version: 1.0
+repositoryURL: https://www.github.com/tibonto/bco
+releaseURL: https://github.com/tibonto/bco/tree/v0.1
